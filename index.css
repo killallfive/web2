@@ -1,0 +1,425 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.headbg{
+	height: 170px;
+	width: 100%;
+	margin: 0	auto;
+}
+#cover{
+	width: 100%;
+	height: 125px;
+	background: white;
+	margin: 0	auto;
+}
+.head{
+	width: 100%;
+	height: 170px;
+	margin: 0	auto;
+	font-size: 	14px;
+}
+.head_1{
+	width: 1180px;
+	height: 35px;
+	margin: 0	auto;
+}
+.a1{
+	margin-top: 10px;
+	color: #9c9c9c;
+	float: left;
+	display: block;
+}
+.top_qq{
+	margin-top: 10px;
+	margin-left: 350px;
+	float: left;
+	display: block;
+}
+.top_wechat{
+	margin-top: 10px;
+	margin-left: 16px;
+	float: left;
+	display: block;
+}
+.top_wb{
+	margin-top: 10px;
+	margin-left: 16px;
+	float: left;
+	display: block;
+}
+.a2{
+	margin-top: 10px;
+	margin-left: 13px;
+	color: #9c9c9c;
+	float: left;
+	display: block;
+}
+.top_mail{
+	margin-top: 13px;
+	margin-left: 16px;
+	float: left;
+	display: block;
+}
+.a3{
+	margin-top: 10px;
+	margin-left: 3px;
+	color: #9c9c9c;
+	float: left;
+	display: block;
+}
+.top_bill{
+	margin-top: 12px;
+	margin-left: 16px;
+	float: left;
+	display: block;
+}
+.a4{
+	margin-top: 10px;
+	color: #9c9c9c;
+	float: left;
+	display: block;
+}
+.top_car{
+	margin-top: 10px;
+	margin-left: 16px;
+	float: left;
+	display: block;
+}
+.a5{
+	margin-top: 10px;
+	margin-left: 2px;
+	color: #fe6c00;
+	font-weight: bold;
+	float: left;
+	display: block;
+}
+.head_2{
+	width: 1180px;
+	height: 90px;
+	margin: 0	auto;
+}
+.b1{
+	float: left;
+	display: block;
+}
+.b2{
+	margin-top: 10px;
+	margin-left: 108px;
+	float: left;
+	display: block;
+}
+.b3{
+	width: 85px;
+	height: 40px;
+	margin-top: 10px;
+	margin-left: 87px;
+	border-radius: 4px;
+	border: 1px #e6e5e2 solid;
+	float: left;
+	display: block;
+	cursor: pointer;
+}
+.b4{
+	width: 85px;
+	height: 40px;
+	margin-top: 10px;
+	border-radius: 4px;
+	border: 1px #e6e5e2 solid;
+	float: left;
+	display: block;
+	cursor: pointer;
+}
+.b5{
+	margin: 0 auto;
+	line-height: 40px;
+	width: 85px;
+	height: 40px;
+	margin-top: 10px;
+	border-radius: 4px;
+	border: 1px #e6e5e2 solid;
+	background: #ff4d04;
+	float: left;
+	display: block;
+	cursor: pointer;
+}
+.b6{
+	padding-top: 60px;
+	margin-left: 260px;
+	width: 580px;
+	height: 20px;
+}
+.head_3{
+	padding-top: 5px;
+	width: 1180px;
+	height: 40px;
+	font-size: 18px;
+	margin: 0	auto;
+}
+.c1{
+	width: 170px;
+	height: 40px;
+	background: #ff4d04;
+	line-height: 40px;
+	color: white;
+	text-align: center;
+	float: left;
+	display: block;
+}
+.c2{
+	width: 120px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	float: left;
+	display: block;
+}
+.c3{
+	width: 110px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	float: left;
+	display: block;
+}
+.otherbg{
+	border-top: 1px #fe6c00 solid;
+	width: 100%;
+	height: 915px;
+	background: #f8f7f6;
+}
+.content{
+	width: 1180px;
+	height: 730px;
+	margin: 0	auto;
+}
+.foot{
+	width: 1180px;
+	height: 165px;
+	margin: 0	auto;
+}
+.content_up{
+	width: 1180px;
+	height: 550px;
+	background: white;
+}
+.content_down{
+	width: 1180px;
+	height: 180px;
+}
+.content_up_left{
+	width: 170px;
+	height: 550px;
+	float: left;
+	display: block;
+}
+.content_up_middle{
+	width: 800px;
+	height: 550px;
+	float: left;
+	display: block;
+	overflow: hidden;
+	border-right: 1px #fe6c00 solid;
+}
+.content_up_right{
+	width: 209px;
+	height: 550px;
+	float: left;
+	display: block;
+}
+.cul_top{
+	width: 170px;
+	height: 425px;
+	border-bottom: 1px #fe6c00 solid;
+}
+.cul_bottom{
+	width: 170px;
+	height: 115px;
+}
+.cum_top{
+	width: 800px;
+	height: 365px;
+	overflow: hidden;	
+	position: relative;
+}
+
+.cum_bottom{
+	width: 800px;
+	height: 185px;
+	border-top: 1px #fe6c00 solid;
+}
+.play{
+	height: 320px;
+	width: 205px;
+	font-size: 12px;
+	line-height: 30px;
+	color: #ff4d04;
+	overflow: hidden;
+	font-weight: bolder;
+	margin-left: 15px;
+	cursor: pointer;
+}
+.foot_top{
+	width: 700px;
+	height: 20px;
+	margin: 0	auto;
+	margin-top: 20px;
+}
+.foot_middle1{
+	padding-top: 15px;
+	width: 490px;
+	height: 20px;
+	margin: 0	auto;
+	color: #9a9791;
+	font-size: 12px;
+}
+.foot_middle2{
+	width: 1070px;
+	height: 20px;
+	margin: 0	auto;
+	color: #9a9791;
+	font-size: 12px;
+}
+.foot_middle3{
+	width: 140px;
+	height: 20px;
+	margin: 0	auto;
+	color: #9a9791;
+	font-size: 12px;
+}
+.foot_bottom{
+	width: 850px;
+	height: 60px;
+	margin: 0 auto;
+}
+.slider {
+	width: 9600px;
+	position: absolute;
+	left: -1200px;
+}
+.slide {
+	width: 1200px;
+	float: left;
+}
+.cum_top>span {
+	display: block;
+	width: 30px;
+	height: 50px;
+	text-align: center;
+	cursor: pointer;
+	color: #fff;
+	top: 175px;
+	line-height: 50px;
+	background: rgb(255, 0, 0);
+	font-size: 30px;
+	position: absolute;
+	/* display: none; */
+	opacity: 0;
+}
+#left {
+	left: 30px;
+}
+#right {
+	right: 30px;
+}
+.nav {
+	margin: 0 auto;
+	position: absolute;
+	left: 250px;
+	bottom: 20px;
+}
+.nav>li {
+	float: left;
+	width: 20px;
+	height: 20px;
+	background: #ccc;
+	cursor: pointer;
+	margin: 0 10px;
+	border-radius: 50%;
+}
+.nav .active {
+	background: red;
+}
+.sell{
+	font-size: 14px;
+	color: #ff4d04;
+	float: left;
+	display: block;
+}
+.rit1{
+	width: 145px;
+	height: 110px;
+	position: fixed;
+	right: -100px;
+	top: 60px;
+	z-index: 2;
+}
+.rit2{
+	width: 145px;
+	height: 140px;
+	position: fixed;
+	right: -100px;
+	top: 170px;
+	background-color: #ff9260;
+	z-index: 2;
+}
+.rit3{
+	width: 145px;
+	height: 140px;
+	position: fixed;
+	right: -100px;
+	top: 315px;
+	background-color: #ff9260;
+	z-index: 2;
+}
+.rit4{
+	width: 145px;
+	height: 140px;
+	position: fixed;
+	right: -100px; 
+	top: 460px;
+	background-color: #ff4d04;
+	z-index: 2;
+}
+.rit11{
+	margin-top: -5px;
+}
+.rit21{
+	float: left;
+}
+.rit22{
+	float: left;
+	margin-left: 20px;
+	margin-top: 40px;
+	font-size: 13px;
+}
+.rit23{
+	border-radius: 2px;
+	text-align: center;
+	float: left;
+	width: 30px;
+	height: 20px;
+	margin-left: 25px;	
+	margin-top: 20px;
+	color: #fff;
+	font-size: 12px;
+	border: 1px solid #fff;
+}
+.rit31{
+	float: left;
+}
+.rit32{
+	float: left;
+	margin-top: 38px;
+	margin-left: 12px;
+}
+.rit33{
+	float: left;
+	margin-left: 12px;
+}
